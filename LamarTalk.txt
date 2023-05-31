@@ -1,0 +1,3 @@
+string1*Lamar: 'I sure could go for a nice swim!'
+string2*BZZZZZZZZZZ!!!
+string3*'The barn is locked!'
